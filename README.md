@@ -2,7 +2,7 @@
 ## Olá! Eu sou o Rogério Miguel 🖐️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=20&center=false&vCenter=false&width=1000&lines=Estou+cursando+Ciências+da+Computação;Sou+Dev+em+Portugol;Sou+Sheipado;)](https://git.io/typing-svg)
 
-[![Blog](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://rogerio-miguel-portifolio.netlify.app/)
+[![Blog](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
 
 
 
